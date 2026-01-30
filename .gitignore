@@ -1,0 +1,51 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Data files (if large)
+data/
+*.csv
+*.xlsx
+*.h5
+*.pkl
+*.pickle
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (if too large for GitHub)
+*.h5
+*.pkl
+*.joblib
+models/*.h5
+models/*.pkl
+
+# Temporary files
+*.tmp
+*.bak
