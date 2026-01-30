@@ -7,6 +7,10 @@ A stunning, AI-powered predictive maintenance system for aircraft turbofan engin
 ![Streamlit](https://img.shields.io/badge/streamlit-1.30+-red)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
+
+## 🌐 Live Streamlit App
+**[RUL Prediction Web App](https://rulpredictionproject.streamlit.app/)**
+
 ## 🌟 Features
 
 ### Premium UI/UX Design
@@ -405,3 +409,4 @@ For issues and questions:
 **Built with ❤️ for the Aviation Industry**
 
 *Preventing failures, one prediction at a time.*
+
